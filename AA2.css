@@ -179,7 +179,7 @@ body {
  #about {
    padding: 10px 2rem;
    max-width: 60rem;
-   margin: auto;
+   margin: 6rem auto;
    display: flex;
    flex-direction: column;
   
@@ -243,7 +243,7 @@ body {
  }
  
  label {
-   font-weight: bold;
+ font-weight: bold;
  }
  
  input, textarea {
